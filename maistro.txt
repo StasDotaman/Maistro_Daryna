@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 commit 1
 commit 2
+=======
+>>>>>>> parent of 096e82f... insert commit 1 file maistro
